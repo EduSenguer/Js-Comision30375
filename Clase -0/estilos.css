@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    padding-left: 20px;
+    text-shadow: 2px 2px grey;
+}
+
+.bloque {
+    width: 200px;
+    margin: 20px;
+    padding: 20px 40px 20px 20px;
+    border-radius: 16px;
+    background-color: darkturquoise;
+}
+
+button {
+    background-color: rgb(71, 7, 7);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(197, 67, 67);
+    border-radius: 16px;
+}
