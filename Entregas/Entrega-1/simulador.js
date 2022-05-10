@@ -79,5 +79,15 @@ function choose() {
         }
         selection = prompt("Ingrese el numero de un producto!");
     }
+    console.log("Aplica un 10% de descuento en efectivo");
+let precio = parseFloat(prompt("Ingresa el precio de tu producto y te dire precio en efectivo"));
+let precioConDescuento;
+while (precio != 0) {
+    precioConDescuento = precio * 0.9;
+    alert("Si abonas en efectivo pagas $" + precioConDescuento);
+    precio = parseFloat(prompt("ingresa el precio de tu producto (0 para salir)"));
 }
- //Confirmacion
+console.log("Adios! gracias!");
+}
+
+
