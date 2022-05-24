@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-dark {
+    background-color: grey;
+    color: whitesmoke;
+    border-radius: 16px;
+}
+.mt-4 {
+    margin-top: 10px;
+}
