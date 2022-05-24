@@ -1,0 +1,20 @@
+.center {
+    display: flex;
+    justify-content: space-between;
+}
+.new-font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color1 {
+    color: #d2d2d6;
+}
+.color2 {
+    color: #055e05;
+}
+.bg-color1 {
+    background-color: #2a78dd;
+}
+.bg-color2 {
+    background-color: #99cf2b;
+}
+
