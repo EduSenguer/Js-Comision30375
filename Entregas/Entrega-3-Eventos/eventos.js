@@ -34,3 +34,8 @@ btn1.addEventListener("click", () => {
     cuenta++;
     span.innerText = cuenta;
 });
+btn2.addEventListener("click", () => {
+    console.log("ESTAS BAJANDOOO!!!");
+    cuenta--;
+    span.innerText = cuenta;
+});
